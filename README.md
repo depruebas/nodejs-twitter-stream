@@ -13,9 +13,10 @@ npm install twit
 <br>
 npm install mysql
 <br></code>
-<br>
+<br><br>
 Para ejecutar el programa 
-<br>
+<br><br>
 <code>
 nodejs stream.js
 </code>
+<br><br>
