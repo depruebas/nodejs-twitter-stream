@@ -2,7 +2,7 @@
 Get the live tweets from keywords through the Twitter streaming API
 
 <b>Instalación</b><br><br>
-Requiere dos paquetes de node <b>twit</b> (<a href="https://usamaejaz.com/twitter-streaming-api-nodejs/" target=_blank>https://usamaejaz.com/twitter-streaming-api-nodejs/</a>) y <b>mysql</b>
+Requiere dos paquetes de node <b>twit</b> (<a href="https://usamaejaz.com/twitter-streaming-api-nodejs/" target="_blank">https://usamaejaz.com/twitter-streaming-api-nodejs/</a>) y <b>mysql</b>
 <br><br>
 <code>
 <br>
